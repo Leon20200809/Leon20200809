@@ -10,7 +10,7 @@
 ### 🧠 コアスキル
 - **PHP**（WordPress / Laravel）
 - **JavaScript**（jQuery / Vanilla / UIアニメーション）
-- **HTML5 / CSS3**（BEM設計 / Utilityクラス / ダークテーマ構築）
+- **HTML5 / CSS3**（BEM設計 / Utilityクラス ）
 
 ### ⚙️ フレームワーク・CMS
 - WordPress（オリジナルテーマ・プラグイン開発）
@@ -18,6 +18,7 @@
 - React（コンポーネント設計・状態管理の基礎）
 
 ### 🛢 インフラ・開発環境
+- Local by Flywheel（WordPress開発に特化したローカル環境）
 - Docker / Xserver（本番環境へのSSHデプロイ）
 - Git / GitHub / GitHub Actions（CI/CD構築）
 - VS Code / Live Server（ローカル開発・高速確認）
@@ -29,28 +30,27 @@
 | タイトル | 概要 | 技術 |
 |----------|------|------|
 | [LazyGeniusDev_WordPressTheme](https://github.com/Leon20200809/LazyGeniusDev_WordPressTheme) | WordPressオリジナルテーマ。SCSS不使用、汎用性重視の構成。 | WordPress / PHP / JS |
-| [task-app](https://github.com/Leon20200809/task-app) | Laravelで作成したタスク管理アプリ。Breeze認証・Bladeテンプレートを実装。 | Laravel / Blade / TailwindCSS |
-| [wp-react-plugin](https://github.com/Leon20200809/wp-react-plugin) | React + WordPressの連携実験用プラグイン。 | React / PHP / WP Plugin |
+
 
 ---
 
 ## 💡 開発スタイル
 
-- 技術的な正しさと「自分っぽさ」の両立を重視
-- ソースコードだけで“世界観”を語れる構成を目指す
+- 技術的な正しさ（使いまわしができるパーツ化）と「自分っぽさ」の両立を重視
 - フロントとバックの垣根を越えた設計が得意
+- 異業種からの参入を武器にわからない人、知らない人目線での開発
 
 ---
 
 ## 🧭 その他
 
-- 制作実績ページはJavaScriptによるロック解除式  
-- パスワード認証はJS直書き。ナンセンスさに遊び心を重ねてます  
-- フィルターを通った“理解者”にこそ届くポートフォリオです
+- スキルシートページはJavaScriptによるロック解除式  
+- パスワード認証はJS直書き。ナンセンスさに遊び心を重ねてます。URL直打ちでも見れます。 
+- フィルターを通った“理解者”にこそ届くスキルシートです
+- skillsheet: [https://lazygenius.dev](https://lazygenius.dev)
 
 ---
 
 ## 📫 Contact
 
 - Portfolio: [https://lazygenius.dev](https://lazygenius.dev)
-- X（旧Twitter）: [@your_username](https://x.com/your_username)
