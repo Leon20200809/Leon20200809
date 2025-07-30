@@ -45,7 +45,7 @@
 ## 🧭 その他
 
 - スキルシートページはJavaScriptによるロック解除式  
-- パスワード認証はJS直書き。ナンセンスさに遊び心を重ねてます。URL直打ちでも見れます。 
+- パスワード認証はJS直書き。ナンセンスさに遊び心を重ねてます。fetch先の.html直打ちでも見れます。 
 - コードを読める人にこそ見てほしいスキルシートです
 - skillsheet: <a href="https://lazygenius.dev/wp-content/uploads/skill-sheet/index.html" target="_blank" rel="noopener noreferrer">スキルシート</a>
 
