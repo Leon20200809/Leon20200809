@@ -1,4 +1,4 @@
-# 👨‍💻 Leon - Lazy Genius
+# 👨‍💻 Leon.C - LazyGeniusDev
 
 怠惰で仕組み化し、短気で高速化し、傲慢で品質を守る。  
 フルスタック志向のエンジニア。PHPとJavaScriptを武器に、サーバーからUIまで貪欲に構築。
