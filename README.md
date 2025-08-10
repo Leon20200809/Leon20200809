@@ -44,9 +44,8 @@
  
     ✔️実際の運用環境で動作確認済み
 
-- **Monster Hunter Skill Simulator（WPプラグイン）**  
-  - 装備・装飾品の組み合わせを計算し最適解を表示  
-  - CSV→DB登録・スキル検索UI・最大20件出力機能
+- **Monster Hunter Wilds 狩猟笛シミュレーター（WP固定ページに設置）**  
+  - ４人分の旋律を一覧表示。カリピスト専用？シミュレーター。武器ランダム選択ボタンあり  
 
 - **CI/CD自動デプロイ構築**  
   - GitHub Actions＋SSHでWordPressテーマをXserverへ自動反映  
