@@ -1,59 +1,57 @@
-# 👨‍💻 Leon.C - LazyGeniusDev
+# Leon.C｜LazyGenius.dev
+**フルサイクルエンジニア／WordPress・Laravel・React**
 
-怠惰で仕組み化し、短気で高速化し、傲慢で品質を守る。  
-「仕組みで人を助ける」を信念に、要件定義から実装・運用・改善提案まで  
-Web開発の全工程を一貫して担えるフルサイクルエンジニアです
-
----
-
-## 🛠 スキルスタック
-
-### 🧠 コアスキル
-- **PHP**（WordPress / Laravel）
-- **JavaScript**（jQuery / Vanilla / UIアニメーション）
-- **HTML5 / CSS3**（BEM設計 / Utilityクラス ）
-
-### ⚙️ フレームワーク・CMS
-- WordPress（オリジナルテーマ・プラグイン開発）
-- Laravel（Blade / breeze / tailwind / GitHub Actions）
-- React（コンポーネント設計・状態管理の基礎）
-
-### 🛢 インフラ・開発環境
-- Local by Flywheel（WordPress開発に特化したローカル環境）
-- Docker / Xserver（本番環境へのSSHデプロイ）
-- Git / GitHub / GitHub Actions（CI/CD構築）
-- VS Code / Live Server（ローカル開発・高速確認）
+「怠惰で仕組み化、短気で高速化、傲慢で品質を守る」  
+効率化と自動化を武器に、要件定義から設計・実装・運用まで一貫して対応します。  
+未経験枠ではなく、無所属の現役として、成果物と実績で評価されることを信条としています。
 
 ---
 
-## 📦 主な制作物（代表例）
+## 💡 できること
+- **WordPress開発**  
+  - オリジナルテーマ制作（BEM設計CSS／SEO最適化／高速化対応）  
+  - プラグイン開発（ショートコード、Ajax、REST API、Nonceによるセキュリティ対策）  
+  - GitHub Actions＋SSHによる本番自動デプロイ構築
 
-| タイトル | 概要 | 技術 |
-|----------|------|------|
-| [LazyGeniusDev_WordPressTheme](https://github.com/Leon20200809/LazyGeniusDev_WordPressTheme) | WordPressオリジナルテーマ。SCSS不使用、汎用性重視の構成。 | WordPress / PHP / JS |
+- **Laravel開発**
+  - Docker＋Nginx本番構成
+  - Breeze認証、Route Resource構築、Bladeコンポーネント分割
+  - Tailwind CSSによる管理画面UI設計
 
-
----
-
-## 💡 開発スタイル
-
-- フルサイクルWebエンジニア（要件定義〜運用改善まで対応）
-- 技術的な正しさ（使いまわしができるパーツ化）と「自分っぽさ」の両立を重視
-- 設計力 × 実装力 × 自動化スキルを活かした“仕組みの開発”が得意
-- 異業種からの参入を武器にわからない人、知らない人目線での開発
-- 「実装だけで終わらず、継続的に改善・最適化していく」開発を志向
-
----
-
-## 🧭 その他
-
-- スキルシートページはJavaScriptによるロック解除式  
-- パスワード認証はJS直書き。ナンセンスさに遊び心を重ねてます。fetch先の.html直打ちでも見れます。 
-- コードを読める人にこそ見てほしいスキルシートです
-- skillsheet: <a href="https://lazygenius.dev/wp-content/uploads/skill-sheet/index.html" target="_blank" rel="noopener noreferrer">スキルシート</a>
+- **フロントエンド**
+  - React（WPプラグイン・UIパーツ制作）
+  - JavaScript／jQueryでのUI実装（アコーディオン、スライダー、非同期通信）
+  - レスポンシブ対応・アクセシビリティ考慮
 
 ---
 
-## 📫 Contact
+## 🚀 実績ピックアップ
+- **Lightalk（WordPress軽量チャットプラグイン）**  
+  - 匿名ユーザーと管理者のリアルタイム風チャットを実装  
+  - ショートコードで設置可能／管理者はWPログイン連動  
+  - Nonceによるセキュリティ実装済み
 
-- Portfolio: [https://lazygenius.dev](https://lazygenius.dev)
+- **Monster Hunter Skill Simulator（WPプラグイン）**  
+  - 装備・装飾品の組み合わせを計算し最適解を表示  
+  - CSV→DB登録・スキル検索UI・最大20件出力機能
+
+- **CI/CD自動デプロイ構築**  
+  - GitHub Actions＋SSHでWordPressテーマをXserverへ自動反映  
+  - ローカル作業から本番までをワンコマンド化
+
+---
+
+## 🛠 技術スタック
+| 分類 | 技術 |
+|------|------|
+| 言語 | PHP, JavaScript, HTML, CSS |
+| FW/Lib | Laravel, React, jQuery, Tailwind CSS |
+| CMS | WordPress（テーマ・プラグイン開発） |
+| 環境 | Docker, Nginx, GitHub Actions, Xserver |
+| ツール | WP-CLI, Composer, npm, FFmpeg |
+
+---
+
+## 📫 連絡
+- **Portfolio**: [https://lazygenius.dev](https://lazygenius.dev)
+- **GitHub**: [https://github.com/Leon20200809](https://github.com/Leon20200809)
