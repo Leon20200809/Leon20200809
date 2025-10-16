@@ -4,7 +4,7 @@
 「怠惰で仕組み化、短気で高速化、傲慢で品質を守る」  
 効率化と自動化を武器に、要件定義から設計・実装・運用まで一貫して対応します。  
 
--　MBTI　ENTJ-A　(https://koibana-dictionary.com/entj-a-entj-t/)
+-　MBTI　ENTJ-A　[ENTJ(指揮官)タイプのエンジニアの特徴と得意・不得意分野]([https://koibana-dictionary.com/entj-a-entj-t/](https://www.tenshoku-joho-navi.com/blog/ENTJ(%E6%8C%87%E6%8F%AE%E5%AE%98)%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%89%B9%E5%BE%B4%E3%81%A8%E5%BE%97%E6%84%8F%E3%83%BB%E4%B8%8D%E5%BE%97%E6%84%8F%E5%88%86%E9%87%8E))
 
 一緒に仕事をするとこんな感じです😊
 -  [ウォンテッドリー性格診断](https://www.wantedly.com/id/c_leon/personality-assessment)
