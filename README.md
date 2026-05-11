@@ -1,5 +1,5 @@
 ## Leon.C｜LazyGenius.dev
-フルサイクルエンジニア／WordPress・Laravel・React
+フルサイクルエンジニア／WordPress・Laravel・React・Next.js
 
 事業成長を技術で支える、フルスタック型の技術責任者。  
 中小企業・スタートアップにおいて、技術選定・アーキテクチャ設計・実装・運用・改善サイクルまでを一貫して担当しています。
