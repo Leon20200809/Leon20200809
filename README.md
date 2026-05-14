@@ -11,25 +11,6 @@ WordPress / PHP / Laravel / Next.js を中心に、
 
 ---
 
-### Main Projects
-
-#### LG Job Hunter
-WordPress / PHP で制作している就職活動支援ツールです。  
-求人情報を収集・整理し、応募メール本文の生成までを支援します。
-
-完全自動化ではなく、最終判断と送信は人間が行う  
-**Human-in-the-loop** の設計を重視しています。
-
-#### LG Web Resume
-Next.js / TypeScript で制作しているWeb履歴書アプリです。  
-履歴書・職務経歴書・制作物・選考結果フォームへの導線をまとめ、  
-採用担当者が確認しやすい形を目指しています。
-
-表示内容は Google Sheets で管理し、  
-コードとデータを分離することで、文章修正や経歴更新をしやすい構成にしています。
-
----
-
 ### Strength
 
 - WordPressのオリジナルテーマ・プラグイン開発
