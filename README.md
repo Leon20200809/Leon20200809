@@ -64,8 +64,4 @@ WordPress / PHP / Laravel / Next.js を中心に、
 - paizaを活用して、PHP / JavaScript の基礎実装力とアルゴリズム力を強化中
 - 小さく作って動かし、理解してから改善する学習スタイルを重視
 
----
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon20200809&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Leon's GitHub stats](https://github-readme-stats-eight.vercel.app/api?username=Leon20200809&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
