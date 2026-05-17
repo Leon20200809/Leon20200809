@@ -67,3 +67,5 @@ WordPress / PHP / Laravel / Next.js を中心に、
 ---
 [![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon20200809&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Leon's GitHub stats](https://github-readme-stats-eight.vercel.app/api?username=Leon20200809&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+
