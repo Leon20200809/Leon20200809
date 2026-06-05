@@ -30,6 +30,7 @@ Webサイト制作、業務改善ツール、採用・応募導線の効率化�
 - Laravelによる業務改善Webアプリ
 - Next.js / TypeScriptによるフロントエンド開発
 - GitHub Actionsを使ったCI/CD
+- PHPUnit / Playwright を使った品質確認・自動テストの導入準備
 - README・設計意図・技術選定理由の言語化
 
 ---
