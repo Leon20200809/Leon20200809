@@ -27,6 +27,7 @@ WordPress、Laravel、Next.js、TypeScript、Astro、Cloudflare、Playwright な
 - Laravel / TypeScriptによる業務改善Webアプリ
 - Next.js / Astroによるフロントエンド・静的サイト
 - Playwrightによるブラウザ自動操作・Webデータ収集・E2E検証
+- Google Apps ScriptによるGoogle Sheets / Gmail / Drive連携・業務自動化
 - API / CSV / Google Sheetsを使った情報収集・整形
 - Cloudflare Workersを使った軽量API・フォーム処理
 - GitHub Actions / Cloudflare / Vercelを使ったデプロイ・運用自動化
@@ -52,9 +53,9 @@ WordPress、Laravel、Next.js、TypeScript、Astro、Cloudflare、Playwright な
 - React / Next.js / TypeScript
 - Astro / Cloudflare Workers / Static Assets
 - Playwright / Browser Automation / Web Data Collection
+- Google Apps Script / clasp / Google Sheets / CSV
 - Cloudflare Turnstile / Resend
 - HTML / CSS / JavaScript
-- Google Sheets / CSV
 - Git / GitHub / GitHub Actions
 - Vercel / Cloudflare / Xserver
 - Docker / Local / Laragon
