@@ -40,8 +40,10 @@ Webサイト制作、業務改善ツール、採用・応募導線の効率化�
 - WordPress / PHP
 - Laravel / Blade / Breeze
 - React / Next.js / TypeScript
+- Astro / Cloudflare Workers / Static Assets
+- Cloudflare Turnstile / Resend
 - HTML / CSS / JavaScript
-- Google Sheets CSV
+- Google Sheets / CSV
 - Git / GitHub / GitHub Actions
 - Vercel / Xserver
 - Docker / Local / Laragon
